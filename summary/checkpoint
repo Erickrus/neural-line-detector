@@ -1,0 +1,2 @@
+model_checkpoint_path: "line-segment-detector.ckpt"
+all_model_checkpoint_paths: "line-segment-detector.ckpt"
